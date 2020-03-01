@@ -1,5 +1,7 @@
-let Dog = require('Dog')
+var Dog = require('./Dog')
 
-let dog1 = new Dog('begie')
+var dog = new Dog('tom')
 
-dog1.sayhi()
+dog.sayHi()
+console.log(dog.name)
+dog.eat('pan')
