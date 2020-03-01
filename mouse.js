@@ -1,4 +1,4 @@
-function eat(){
+function Mouse(){
 	
 }
-module.exports = mouse
+module.exports = Mouse
