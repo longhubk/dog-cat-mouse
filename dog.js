@@ -5,3 +5,4 @@ function Dog(){
 Dog.prototype.eat = funcion(cat){
 	this.stomach.push(cat)
 }
+module.exports = dog
